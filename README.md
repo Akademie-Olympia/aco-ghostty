@@ -1,21 +1,19 @@
 # Ghostty configuration
 
-GPU-Terminal mit Catppuccin Mocha, transparenter Darstellung und Zsh.
+GPU terminal with Catppuccin Mocha, transparent rendering and Zsh.
 
-**[Vollständige Dokumentation](https://aco-ghostty.readthedocs.io/en/latest/)** ·
-[Arch-Paket](https://aco-ghostty.readthedocs.io/en/latest/packages/) ·
-[Dotfiles-Handbuch](https://aco-arch-dotfiles.readthedocs.io/en/latest/)
+**[Full documentation](https://aco-ghostty.readthedocs.io/en/latest/)** ·
+[Arch package](https://aco-ghostty.readthedocs.io/en/latest/packages/) ·
+[Design & dependencies](https://aco-ghostty.readthedocs.io/en/latest/design/)
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/Akademie-Olympia/aco-arch-dotfiles/main/install.sh | bash -s -- ghostty
 ```
 
-Paket: `aco-arch-dotfiles-ghostty`. Einstellungen: `~/.config/ghostty/config`.
-Konfiguration, Tastenkombinationen und Standalone-Installation stehen im Handbuch.
-Entwicklung erfolgt in diesem eigenständigen Repository; Pushes auf `main` werden
-von der Registry geprüft und gebaut. Updates: `sudo pacman -Syu`.
-Lokale Builds: [PACKAGING.md](PACKAGING.md).
+Package: `aco-arch-dotfiles-ghostty`. Settings: `~/.config/ghostty/config`.
+Configuration, key bindings and standalone installation are described in the manual.
+Develop independently in this repository and push to `main`; after a successful registry build update with `sudo pacman -Syu`. Local builds: [PACKAGING.md](PACKAGING.md).
 
 [![Package safety](https://github.com/Akademie-Olympia/aco-ghostty/actions/workflows/package.yml/badge.svg)](https://github.com/Akademie-Olympia/aco-ghostty/actions/workflows/package.yml)
 
-[MIT-Lizenz](LICENSE).
+[MIT licence](LICENSE).
