@@ -1,7 +1,7 @@
 # ghostty-config
 
-[![Docs](https://readthedocs.org/projects/ghostty-config/badge/?version=latest)](https://ghostty-config.readthedocs.io/en/latest/)
-[![Dotfiles Hub](https://img.shields.io/badge/ecosystem-arch--dotfiles-1793D1?logo=arch-linux&logoColor=white)](https://arch-dotfiles.readthedocs.io/en/latest/)
+[![Docs](https://readthedocs.org/projects/aco-ghostty/badge/?version=latest)](https://aco-ghostty.readthedocs.io/en/latest/)
+[![Dotfiles Hub](https://img.shields.io/badge/ecosystem-arch--dotfiles-1793D1?logo=arch-linux&logoColor=white)](https://aco-arch-dotfiles.readthedocs.io/en/latest/)
 [![Theme: Catppuccin Mocha](https://img.shields.io/badge/theme-Catppuccin%20Mocha-cba6f7)](https://github.com/catppuccin/catppuccin)
 [![Platform: Linux | macOS](https://img.shields.io/badge/platform-Arch%20Linux%20%7C%20Linux%20%7C%20macOS-89b4fa)](https://ghostty.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Akademie-Olympia/aco-ghostty/blob/main/LICENSE)
@@ -9,7 +9,7 @@
 A minimalist, high-performance **Ghostty** terminal configuration styled in the official **Catppuccin Mocha** palette with tasteful transparency, custom font metrics, and seamless integration with Neovim, tmux, and Hyprland.
 
 :::{note}
-**Part of the Arch Dotfiles Ecosystem**: Built for **Arch Linux** as part of [`arch-dotfiles`](https://arch-dotfiles.readthedocs.io/en/latest/), this Ghostty configuration is completely self-contained and beginner-friendly so anyone can install it on Arch Linux or use it standalone on **any Linux distribution or macOS** with minimal adjustments.
+**Part of the ACO Arch Dotfiles Ecosystem**: Built for **Arch Linux** as part of [`aco-arch-dotfiles`](https://aco-arch-dotfiles.readthedocs.io/en/latest/), this Ghostty configuration is completely self-contained and beginner-friendly so anyone can install it on Arch Linux or use it standalone on **any Linux distribution or macOS** with minimal adjustments.
 :::
 
 ---
@@ -41,11 +41,11 @@ faq
 :caption: Related documentation
 :hidden:
 
-Arch Dotfiles (main hub) <https://arch-dotfiles.readthedocs.io/en/latest/>
-Neovim (nvim-config) <https://nvim-config.readthedocs.io/en/latest/>
-tmux (tmux-config) <https://tmux-config.readthedocs.io/en/latest/>
-Kitty (kitty-config) <https://kitty-config.readthedocs.io/en/latest/>
-Vim (vim-config) <https://vim-config.readthedocs.io/en/latest/>
+ACO Arch Dotfiles (main hub) <https://aco-arch-dotfiles.readthedocs.io/en/latest/>
+Neovim (nvim-config) <https://aco-nvim.readthedocs.io/en/latest/>
+tmux (tmux-config) <https://aco-tmux.readthedocs.io/en/latest/>
+Kitty (kitty-config) <https://aco-kitty.readthedocs.io/en/latest/>
+Vim (vim-config) <https://aco-vim.readthedocs.io/en/latest/>
 ```
 
 ---
@@ -68,8 +68,8 @@ This repository is independent, not embedded in a parent subtree. See
 
 ## Connected Dotfiles Ecosystem
 
-- **[Arch Dotfiles Hub (`arch-dotfiles`)](https://arch-dotfiles.readthedocs.io/en/latest/)**: Central repository uniting the Arch Linux + Hyprland desktop, window manager, and shell environments.
-- **[nvim-config](https://nvim-config.readthedocs.io/en/latest/)**: Reproducible, offline-capable Neovim IDE with identical Catppuccin Mocha colors.
-- **[tmux-config](https://tmux-config.readthedocs.io/en/latest/)**: Portable terminal multiplexer with truecolor and OSC 52 clipboard support.
-- **[kitty-config](https://kitty-config.readthedocs.io/en/latest/)**: Alternative GPU-accelerated terminal with identical styling and Powerline tabs.
-- **[vim-config](https://vim-config.readthedocs.io/en/latest/)**: Zero-plugin standalone Vim configuration.
+- **[ACO Arch Dotfiles Hub (`aco-arch-dotfiles`)](https://aco-arch-dotfiles.readthedocs.io/en/latest/)**: Central repository uniting the Arch Linux + Hyprland desktop, window manager, and shell environments.
+- **[nvim-config](https://aco-nvim.readthedocs.io/en/latest/)**: Reproducible, offline-capable Neovim IDE with identical Catppuccin Mocha colors.
+- **[tmux-config](https://aco-tmux.readthedocs.io/en/latest/)**: Portable terminal multiplexer with truecolor and OSC 52 clipboard support.
+- **[kitty-config](https://aco-kitty.readthedocs.io/en/latest/)**: Alternative GPU-accelerated terminal with identical styling and Powerline tabs.
+- **[vim-config](https://aco-vim.readthedocs.io/en/latest/)**: Zero-plugin standalone Vim configuration.

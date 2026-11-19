@@ -60,9 +60,9 @@ mv ~/.config/ghostty ~/.config/ghostty.bak
 git clone https://github.com/Akademie-Olympia/aco-ghostty.git ~/.config/ghostty
 ```
 
-### Route B: As Part of the Arch Dotfiles Hub
+### Route B: As Part of the ACO Arch Dotfiles Hub
 
-Ghostty is distributed as the independent `arch-dotfiles-ghostty` package.
+Ghostty is distributed as the independent `aco-arch-dotfiles-ghostty` package.
 See {doc}`packages` for the installer, activation and `pacman -Syu` workflow.
 
 ---
@@ -85,7 +85,7 @@ Check the active configuration:
 
 ## Rollback & Uninstall
 
-Package installation: use `arch-dotfiles-config deactivate ghostty` before
+Package installation: use `aco-arch-dotfiles-config deactivate ghostty` before
 removing the package, as explained in {doc}`packages`. For a standalone clone,
 move it aside and restore your original backup only after reviewing both paths.
 Do not recursively delete an active user configuration to resolve a conflict.
