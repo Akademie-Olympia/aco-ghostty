@@ -1,7 +1,7 @@
 # Arch package and automatic updates
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MichaelWeissDEV/dotfiles/main/install.sh | bash -s -- ghostty
+curl -fsSL https://raw.githubusercontent.com/Akademie-Olympia/aco-dotfiles/main/install.sh | bash -s -- ghostty
 ```
 
 This installs `arch-dotfiles-ghostty` with Ghostty, Zsh and fonts, verifies the

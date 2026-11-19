@@ -7,7 +7,7 @@ GPU-Terminal mit Catppuccin Mocha, transparenter Darstellung und Zsh.
 [Dotfiles-Handbuch](https://arch-dotfiles.readthedocs.io/en/latest/)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MichaelWeissDEV/dotfiles/main/install.sh | bash -s -- ghostty
+curl -fsSL https://raw.githubusercontent.com/Akademie-Olympia/aco-dotfiles/main/install.sh | bash -s -- ghostty
 ```
 
 Paket: `arch-dotfiles-ghostty`. Einstellungen: `~/.config/ghostty/config`.
@@ -16,6 +16,6 @@ Entwicklung erfolgt in diesem eigenständigen Repository; Pushes auf `main` werd
 von der Registry geprüft und gebaut. Updates: `sudo pacman -Syu`.
 Lokale Builds: [PACKAGING.md](PACKAGING.md).
 
-[![Package safety](https://github.com/MichaelWeissDEV/ghostty-config/actions/workflows/package.yml/badge.svg)](https://github.com/MichaelWeissDEV/ghostty-config/actions/workflows/package.yml)
+[![Package safety](https://github.com/Akademie-Olympia/aco-ghostty/actions/workflows/package.yml/badge.svg)](https://github.com/Akademie-Olympia/aco-ghostty/actions/workflows/package.yml)
 
 [MIT-Lizenz](LICENSE).

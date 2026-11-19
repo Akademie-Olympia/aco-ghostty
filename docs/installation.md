@@ -50,14 +50,14 @@ sudo apt-get install -f
 Clone the repository directly into your user's XDG configuration directory:
 
 ```bash
-git clone https://github.com/MichaelWeissDEV/ghostty-config.git ~/.config/ghostty
+git clone https://github.com/Akademie-Olympia/aco-ghostty.git ~/.config/ghostty
 ```
 
 If you already have a `~/.config/ghostty` folder, create a backup first:
 
 ```bash
 mv ~/.config/ghostty ~/.config/ghostty.bak
-git clone https://github.com/MichaelWeissDEV/ghostty-config.git ~/.config/ghostty
+git clone https://github.com/Akademie-Olympia/aco-ghostty.git ~/.config/ghostty
 ```
 
 ### Route B: As Part of the Arch Dotfiles Hub

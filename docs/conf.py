@@ -34,7 +34,7 @@ myst_heading_anchors = 3
 html_theme = "furo"
 html_title = "ghostty-config docs"
 html_theme_options = {
-    "source_repository": "https://github.com/MichaelWeissDEV/ghostty-config",
+    "source_repository": "https://github.com/Akademie-Olympia/aco-ghostty",
     "source_branch": "main",
     "source_directory": "docs/",
     "light_css_variables": {
