@@ -30,6 +30,7 @@ A minimalist, high-performance **Ghostty** terminal configuration styled in the 
 :maxdepth: 2
 :caption: User Guide
 
+design
 installation
 packages
 configuration
