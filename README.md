@@ -1,6 +1,6 @@
 # Ghostty configuration
 
-GPU terminal with Catppuccin Mocha, transparent rendering and Zsh.
+GPU terminal themed by aco-theme, ligature-free JetBrainsMonoNL and Zsh.
 
 **[Full documentation](https://aco-ghostty.readthedocs.io/en/latest/)** ·
 [Arch package](https://aco-ghostty.readthedocs.io/en/latest/packages/) ·

@@ -49,7 +49,7 @@ If your system places Zsh at `/usr/local/bin/zsh` or if you prefer Bash:
 
 Both terminals in this dotfiles ecosystem are configured with:
 - Identical `JetBrainsMono Nerd Font 10.5` typography
-- Matching `0.90` Catppuccin Mocha opacity
+- Matching aco-theme colours and opacity
 - Identical `8px` padding
 - Identical color palettes
 

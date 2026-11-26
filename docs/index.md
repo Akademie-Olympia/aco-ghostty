@@ -2,11 +2,11 @@
 
 [![Docs](https://readthedocs.org/projects/aco-ghostty/badge/?version=latest)](https://aco-ghostty.readthedocs.io/en/latest/)
 [![Dotfiles Hub](https://img.shields.io/badge/ecosystem-arch--dotfiles-1793D1?logo=arch-linux&logoColor=white)](https://aco-arch-dotfiles.readthedocs.io/en/latest/)
-[![Theme: Catppuccin Mocha](https://img.shields.io/badge/theme-Catppuccin%20Mocha-cba6f7)](https://github.com/catppuccin/catppuccin)
+[![Theme: aco-theme](https://img.shields.io/badge/theme-aco--theme-5b9cf6)](https://github.com/Akademie-Olympia/aco-theme)
 [![Platform: Linux | macOS](https://img.shields.io/badge/platform-Arch%20Linux%20%7C%20Linux%20%7C%20macOS-89b4fa)](https://ghostty.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Akademie-Olympia/aco-ghostty/blob/main/LICENSE)
 
-A minimalist, high-performance **Ghostty** terminal configuration styled in the official **Catppuccin Mocha** palette with tasteful transparency, custom font metrics, and seamless integration with Neovim, tmux, and Hyprland.
+A minimalist, high-performance **Ghostty** terminal configuration styled by the shared **aco-theme** (light/dark, accent, transparency) with tasteful transparency, custom font metrics, and seamless integration with Neovim, tmux, and Hyprland.
 
 :::{note}
 **Part of the ACO Arch Dotfiles Ecosystem**: Built for **Arch Linux** as part of [`aco-arch-dotfiles`](https://aco-arch-dotfiles.readthedocs.io/en/latest/), this Ghostty configuration is completely self-contained and beginner-friendly so anyone can install it on Arch Linux or use it standalone on **any Linux distribution or macOS** with minimal adjustments.
@@ -16,7 +16,7 @@ A minimalist, high-performance **Ghostty** terminal configuration styled in the 
 
 ## Highlights
 
-- 🎨 **Official Catppuccin Mocha Theme**: Base `#1e1e2e`, foreground `#cdd6f4`, selection `#89b4fa`, and block cursor in Rosewater `#f5e0dc`.
+- 🎨 **aco-theme**: background, text, selection and accent cursor follow `aco-theme mode|accent|transparency` and reload live.
 - 🪟 **Subtle Transparency**: Balanced `0.90` background opacity matching sibling Kitty and Foot configurations.
 - 🔤 **JetBrainsMono Nerd Font**: Sized at `10.5pt` with balanced padding (`8px` horizontal and vertical).
 - ⚡ **Zero Bloat**: No window decorations or bulky titlebars (`window-decoration = none`, `gtk-titlebar = false`), starts directly with Zsh.
@@ -70,7 +70,7 @@ This repository is independent, not embedded in a parent subtree. See
 ## Connected Dotfiles Ecosystem
 
 - **[ACO Arch Dotfiles Hub (`aco-arch-dotfiles`)](https://aco-arch-dotfiles.readthedocs.io/en/latest/)**: Central repository uniting the Arch Linux + Hyprland desktop, window manager, and shell environments.
-- **[nvim-config](https://aco-nvim.readthedocs.io/en/latest/)**: Reproducible, offline-capable Neovim IDE with identical Catppuccin Mocha colors.
+- **[nvim-config](https://aco-nvim.readthedocs.io/en/latest/)**: Reproducible, offline-capable Neovim IDE.
 - **[tmux-config](https://aco-tmux.readthedocs.io/en/latest/)**: Portable terminal multiplexer with truecolor and OSC 52 clipboard support.
 - **[kitty-config](https://aco-kitty.readthedocs.io/en/latest/)**: Alternative GPU-accelerated terminal with identical styling and Powerline tabs.
 - **[vim-config](https://aco-vim.readthedocs.io/en/latest/)**: Zero-plugin standalone Vim configuration.
