@@ -19,7 +19,7 @@ palette = 10={{green}}
 palette = 3={{yellow}}
 palette = 11={{orange}}
 palette = 4={{blue}}
-palette = 12={{blue}}
+palette = 12={{accent}}
 palette = 5={{purple}}
 palette = 13={{pink}}
 palette = 6={{cyan}}
