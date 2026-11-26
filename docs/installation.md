@@ -78,7 +78,7 @@ ghostty
 Check the active configuration:
 
 1. The window should appear with no native titlebars or borders.
-2. The background should have a subtle 10% transparency (`0.90` opacity) with the dark Catppuccin Mocha slate tone (`#1e1e2e`).
+2. The background uses the aco-theme background and terminal opacity (`aco-theme get bg`).
 3. The cursor should be an unblinking solid block in Rosewater (`#f5e0dc`).
 
 ---
